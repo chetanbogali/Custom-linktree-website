@@ -1,0 +1,121 @@
+/* Responsive  */
+@media (max-width: 780px) {
+    .links {
+        margin-top: 17px;
+        padding: 14px;
+        width: 300px;
+    }
+    .profile-picture {
+        margin-top: 4%;
+        max-width: 76px;
+    }
+    .profile-name {
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+    body {
+        font-size: 17px;
+    }
+    .bottom-text {
+        margin-top: 30px;
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 580px) {
+    .links {
+        margin-top: 15px;
+        padding: 10px;
+        width: 270px;
+    }
+    .profile-picture {
+        margin-top: 25px;
+        max-width: 67px;
+    }
+    .profile-name {
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+    body {
+        font-size: 16px;
+    }
+    .bottom-text {
+        margin-top: 26px;
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .links {
+        margin-top: 13px;
+        padding: 8px;
+        display: block;
+        width: 220px;
+    }
+    .profile-picture {
+        margin-top: 20px;
+        max-width: 67px;
+    }
+    .profile-name {
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+    body {
+        font-size: 15px;
+    }
+    .bottom-text {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 370px) {
+    .links {
+        margin-top: 10px;
+        padding: 5px;
+        width: 200px;
+    }
+    .profile-picture {
+        margin-top: 30px;
+        max-width: 67px;
+    }
+    .profile-name {
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+    body {
+        font-size: 14px;
+    }
+    .bottom-text {
+        margin-top: 22px;
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 290px) {
+    .links {
+        margin-top: 10px;
+        padding: 5px;
+        width: 140px;
+    }
+    .profile-picture {
+        margin-top: 32px;
+        max-width: 60px;
+    }
+    .profile-name {
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+    body {
+        font-size: 13px;
+    }
+    .bottom-text {
+        margin-top: 18px;
+        margin-bottom: 20px;
+        font-size: 11px;
+    }
+}
