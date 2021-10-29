@@ -1,2 +1,2 @@
-# My_Social_Links
+# MySocialLinks
 Links to my social network
