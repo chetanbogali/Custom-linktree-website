@@ -27,4 +27,5 @@ I'm a full stack developer...
 
 ## Screenshots
 
-![Screenshot_20220508-164723__01__01](https://user-images.githubusercontent.com/84176348/167295729-2ca58abd-435f-4748-a952-6b11a589acd8.jpg)
+<!-- ![Screenshot_20220508-164723__01__01](https://user-images.githubusercontent.com/84176348/167295729-2ca58abd-435f-4748-a952-6b11a589acd8.jpg) -->
+https://github.com/chetanbogali/MySocialLinks/blob/main/Screenshots/Screenshot_20220508-164723__01__01.jpg
