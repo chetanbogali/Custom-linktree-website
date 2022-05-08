@@ -37,8 +37,9 @@ to become <b>Fullstack developer</b>.
 <a href="https://www.hackerrank.com/chetubogali05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chetubogali05" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chetubogali05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chetubogali05" height="30" width="40" /></a>
 </p>
-
+<!---
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-bogali-b18730191)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChetanBogali05?t=VgTgMgOSq7yon6jB-wadzQ&s=09)
-
+-->
+<b>
