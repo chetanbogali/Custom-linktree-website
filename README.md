@@ -4,12 +4,12 @@
 Linktree is a tool that allows you to share multiple links on social media.
 
 - linktree helps you to place all social media links in one place.
-- Easy to use, it is user friendly.
-- this website is built using basic HTML and CSS.
+- Easy to use it is user friendly.
+- this website is built by using basic HTML and CSS.
 
 ## Demo
 
-https://chetanbogali.github.io/MySocialLinks/
+https://chetanbogali.github.io/Custom-linktree-website/
 
 ## Features
 - Mobile Compatibility
